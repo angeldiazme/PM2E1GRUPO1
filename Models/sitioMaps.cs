@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SQLite;
 
-namespace PM2E1507673.Models
+namespace PM2E1GRUPO1.Models
 {
     [SQLite.Table("SitioMaps")]
     public class sitioMaps

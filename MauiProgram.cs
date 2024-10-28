@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 using Syncfusion.Maui.Core.Hosting;
 
-namespace PM2E1507673
+namespace PM2E1GRUPO1
 {
     public static class MauiProgram
     {

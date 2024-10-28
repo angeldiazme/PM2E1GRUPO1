@@ -1,4 +1,4 @@
-namespace PM2E1507673.Views;
+namespace PM2E1GRUPO1.Views;
 
 public partial class verFoto : ContentPage
 {

@@ -2,7 +2,7 @@ using Microsoft.Maui.Controls.Maps;
 using Microsoft.Maui.Maps;
 using System.Text.Json;
 
-namespace PM2E1507673.Views;
+namespace PM2E1GRUPO1.Views;
 
 public partial class verMapa : ContentPage
 {
@@ -11,7 +11,7 @@ public partial class verMapa : ContentPage
     {
         InitializeComponent();
         SelectedSitio = selectedSitio;
-        //labelSitio.Text = SelectedSitio.descripcion;
+        labelSitio.Text = SelectedSitio.descripcion;
         this.Appearing += VerMapa_Appearing;
     }
 

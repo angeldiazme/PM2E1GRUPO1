@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SQLite;
-using PM2E1507673.Models;
+using PM2E1GRUPO1.Models;
 
-namespace PM2E1507673.Controllers
+namespace PM2E1GRUPO1.Controllers
 {
     public class DBSitioMaps
     {

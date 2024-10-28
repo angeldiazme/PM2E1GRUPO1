@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PM2E1507673.Controllers
+namespace PM2E1GRUPO1.Controllers
 {
     public class base64Image : IValueConverter
     {
